@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.geometry.Insets?>
+
+<AnchorPane prefHeight="600.0" prefWidth="900.0" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.Students_Database.HomeController">
+   <children>
+      <AnchorPane prefHeight="60.0" prefWidth="900.0" style="-fx-background-color: #f0f0f0; -fx-border-color: #cccccc; -fx-border-width: 1;">
+         <children>
+            <Button fx:id="grades_button" layoutX="20.0" layoutY="15.0" mnemonicParsing="false" prefHeight="35.0" prefWidth="160.0" text="Выставить оценки" style="-fx-font-size: 14px; -fx-font-weight: bold; -fx-background-color: #4CAF50; -fx-text-fill: white; -fx-border-radius: 5px;" />
+            <Button fx:id="import_button" layoutX="200.0" layoutY="15.0" mnemonicParsing="false" prefHeight="35.0" prefWidth="160.0" text="Импорт студентов" style="-fx-font-size: 14px; -fx-font-weight: bold; -fx-background-color: #2196F3; -fx-text-fill: white; -fx-border-radius: 5px;" />
+            <Button fx:id="statistics_button" layoutX="380.0" layoutY="15.0" mnemonicParsing="false" prefHeight="35.0" prefWidth="160.0" text="Статистика" style="-fx-font-size: 14px; -fx-font-weight: bold; -fx-background-color: #FF9800; -fx-text-fill: white; -fx-border-radius: 5px;" />
+         </children>
+      </AnchorPane>
+   </children>
+</AnchorPane>

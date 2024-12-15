@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ChoiceBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane prefHeight="600.0" prefWidth="900.0" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.Students_Database.StatisticsController">
+    <children>
+        <AnchorPane prefHeight="60.0" prefWidth="900.0" style="-fx-background-color: #f0f0f0; -fx-border-color: #cccccc; -fx-border-width: 1;">
+            <children>
+                <Button fx:id="grades_button" layoutX="20.0" layoutY="15.0" mnemonicParsing="false" prefHeight="35.0" prefWidth="160.0" text="Выставить оценки" style="-fx-font-size: 14px; -fx-font-weight: bold; -fx-background-color: #4CAF50; -fx-text-fill: white; -fx-border-radius: 5px;" />
+                <Button fx:id="import_button" layoutX="200.0" layoutY="15.0" mnemonicParsing="false" prefHeight="35.0" prefWidth="160.0" text="Импорт студентов" style="-fx-font-size: 14px; -fx-font-weight: bold; -fx-background-color: #2196F3; -fx-text-fill: white; -fx-border-radius: 5px;" />
+                <Button fx:id="statistics_button" layoutX="380.0" layoutY="15.0" mnemonicParsing="false" prefHeight="35.0" prefWidth="160.0" text="Статистика" style="-fx-font-size: 14px; -fx-font-weight: bold; -fx-background-color: #FF9800; -fx-text-fill: white; -fx-border-radius: 5px;" />
+            </children>
+        </AnchorPane>
+        <ChoiceBox fx:id="GroupBox" layoutX="192.0" layoutY="80.0" prefWidth="200.0" style="-fx-font-size: 14px; -fx-border-color: #cccccc; -fx-border-radius: 5px;" />
+        <TableView fx:id="table" layoutX="14.0" layoutY="130.0" prefHeight="400.0" prefWidth="356.0" style="-fx-border-color: #cccccc; -fx-border-radius: 5px;">
+            <columns>
+                <TableColumn fx:id="surname" prefWidth="179.0" text="Имя" style="-fx-font-size: 14px;" />
+                <TableColumn fx:id="name" prefWidth="176.0" text="Фамилия" style="-fx-font-size: 14px;" />
+            </columns>
+        </TableView>
+        <Label layoutX="46.0" layoutY="85.0" text="Выберите группу" style="-fx-font-size: 14px;" />
+        <AnchorPane layoutX="386.0" layoutY="80.0" prefHeight="250.0" prefWidth="500.0" style="-fx-background-color: #f9f9f9; -fx-border-color: #cccccc; -fx-border-width: 1;">
+            <children>
+                <Label fx:id="name_field" layoutX="14.0" layoutY="14.0" text="Статистика студента" style="-fx-font-size: 14px;" />
+                <Label layoutX="14.0" layoutY="40.0" text="Оценки за работы:" style="-fx-font-size: 14px;" />
+                <Label fx:id="Grades_field" layoutX="14.0" layoutY="60.0" style="-fx-font-size: 14px;" />
+                <Label fx:id="Avarage_grade" layoutX="14.0" layoutY="80.0" text="Средняя оценка:" style="-fx-font-size: 14px;" />
+                <Label layoutX="14.0" layoutY="100.0" text="Работы не сданы:" style="-fx-font-size: 14px;" />
+                <Label fx:id="no_work" layoutX="14.0" layoutY="120.0" style="-fx-font-size: 14px;" />
+                <Label layoutX="14.0" layoutY="140.0" text="Был на занятиях:" style="-fx-font-size: 14px;" />
+                <Label fx:id="no_classes" layoutX="14.0" layoutY="160.0" style="-fx-font-size: 14px;" />
+                <Label fx:id="Avarage_classes" layoutX="14.0" layoutY="180.0" style="-fx-font-size: 14px;" />
+            </children>
+        </AnchorPane>
+        <AnchorPane layoutX="386.0" layoutY="360.0" prefHeight="210.0" prefWidth="500.0" style="-fx-background-color: #f9f9f9; -fx-border-color: #cccccc; -fx-border-width: 1;">
+            <children>
+                <Label fx:id="name_group" layoutX="14.0" layoutY="14.0" text="Статистика группы" style="-fx-font-size: 14px;" />
+                <Label fx:id="group_classes" layoutX="14.0" layoutY="40.0" style="-fx-font-size: 14px;" />
+                <Label fx:id="group_grades" layoutX="14.0" layoutY="60.0" style="-fx-font-size: 14px;" />
+                <Label fx:id="group_works" layoutX="14.0" layoutY="80.0" style="-fx-font-size: 14px;" />
+            </children>
+        </AnchorPane>
+    </children>
+</AnchorPane>

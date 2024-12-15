@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<databaseConnection>
+    <host>localhost</host>
+    <port>3306</port>
+    <databaseName>STUDENTS_DATABASE</databaseName>
+    <username>root</username>
+    <password>password</password>
+</databaseConnection>

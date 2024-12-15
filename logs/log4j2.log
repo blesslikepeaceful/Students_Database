@@ -1,0 +1,685 @@
+2024-12-15 00:00:09,616 INFO s.s.DatabaseHandler [JavaFX Application Thread] Создание новой группы
+2024-12-15 00:00:09,632 INFO s.s.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 00:00:09,669 INFO s.s.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 00:00:09,710 INFO s.s.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 00:00:09,735 INFO s.s.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 00:00:09,752 INFO s.s.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 00:00:09,769 INFO s.s.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 00:00:09,784 INFO s.s.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 00:00:09,799 INFO s.s.DatabaseHandler [JavaFX Application Thread] Запрос списка практических работ
+2024-12-15 00:00:09,800 INFO s.s.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 00:00:09,816 INFO s.s.DatabaseHandler [JavaFX Application Thread] Запрос списка занятий
+2024-12-15 00:00:09,816 INFO s.s.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 00:00:13,582 INFO s.s.ImportController [JavaFX Application Thread] Открытие нового окна
+2024-12-15 00:00:13,600 INFO s.s.DatabaseHandler [JavaFX Application Thread] Запрос списка групп
+2024-12-15 00:00:13,601 INFO s.s.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 00:00:13,622 INFO s.s.DatabaseHandler [JavaFX Application Thread] Запрос списка практических работ
+2024-12-15 00:00:13,622 INFO s.s.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 00:00:13,641 INFO s.s.DatabaseHandler [JavaFX Application Thread] Запрос списка занятий
+2024-12-15 00:00:13,641 INFO s.s.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 00:00:15,153 INFO s.s.DatabaseHandler [JavaFX Application Thread] Запрос списка студентов
+2024-12-15 00:00:15,154 INFO s.s.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 00:00:23,648 INFO s.s.GradesController [JavaFX Application Thread] Открытие нового окна
+2024-12-15 00:00:24,933 INFO s.s.ImportController [JavaFX Application Thread] Открытие нового окна
+2024-12-15 00:00:24,946 INFO s.s.DatabaseHandler [JavaFX Application Thread] Запрос списка групп
+2024-12-15 00:00:24,947 INFO s.s.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 00:00:24,966 INFO s.s.DatabaseHandler [JavaFX Application Thread] Запрос списка практических работ
+2024-12-15 00:00:24,967 INFO s.s.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 00:00:24,982 INFO s.s.DatabaseHandler [JavaFX Application Thread] Запрос списка занятий
+2024-12-15 00:00:24,982 INFO s.s.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 00:00:26,515 INFO s.s.GradesController [JavaFX Application Thread] Открытие нового окна
+2024-12-15 00:00:26,524 INFO s.s.DatabaseHandler [JavaFX Application Thread] Запрос списка групп
+2024-12-15 00:00:26,524 INFO s.s.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 00:00:27,834 INFO s.s.DatabaseHandler [JavaFX Application Thread] Запрос списка студентов
+2024-12-15 00:00:27,834 INFO s.s.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 00:00:27,857 INFO s.s.DatabaseHandler [JavaFX Application Thread] Запрос списка практических работ
+2024-12-15 00:00:27,858 INFO s.s.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 00:00:27,874 INFO s.s.DatabaseHandler [JavaFX Application Thread] Запрос списка занятий
+2024-12-15 00:00:27,874 INFO s.s.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 00:00:27,888 INFO s.s.DatabaseHandler [JavaFX Application Thread] Запрос списка студентов
+2024-12-15 00:00:27,888 INFO s.s.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 00:00:27,915 INFO s.s.DatabaseHandler [JavaFX Application Thread] Запрос списка оценок
+2024-12-15 00:00:27,916 INFO s.s.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 00:00:27,932 INFO s.s.DatabaseHandler [JavaFX Application Thread] Запрос списка занятий ученика
+2024-12-15 00:00:27,933 INFO s.s.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 00:00:27,946 INFO s.s.DatabaseHandler [JavaFX Application Thread] Запрос списка оценок
+2024-12-15 00:00:27,946 INFO s.s.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 00:00:27,959 INFO s.s.DatabaseHandler [JavaFX Application Thread] Запрос списка занятий ученика
+2024-12-15 00:00:27,959 INFO s.s.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 00:00:28,667 INFO s.s.DatabaseHandler [JavaFX Application Thread] Запрос списка практических работ
+2024-12-15 00:00:28,668 INFO s.s.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 00:00:28,693 INFO s.s.DatabaseHandler [JavaFX Application Thread] Запрос списка занятий
+2024-12-15 00:00:28,693 INFO s.s.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 00:00:28,710 INFO s.s.DatabaseHandler [JavaFX Application Thread] Запрос списка оценок
+2024-12-15 00:00:28,711 INFO s.s.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 00:00:28,723 INFO s.s.DatabaseHandler [JavaFX Application Thread] Запрос списка занятий ученика
+2024-12-15 00:00:28,723 INFO s.s.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 00:00:29,567 INFO s.s.DatabaseHandler [JavaFX Application Thread] Запрос списка практических работ
+2024-12-15 00:00:29,568 INFO s.s.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 00:00:29,589 INFO s.s.DatabaseHandler [JavaFX Application Thread] Запрос списка занятий
+2024-12-15 00:00:29,589 INFO s.s.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 00:00:29,606 INFO s.s.DatabaseHandler [JavaFX Application Thread] Запрос списка оценок
+2024-12-15 00:00:29,606 INFO s.s.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 00:00:29,620 INFO s.s.DatabaseHandler [JavaFX Application Thread] Запрос списка занятий ученика
+2024-12-15 00:00:29,620 INFO s.s.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 00:00:30,183 INFO s.s.DatabaseHandler [JavaFX Application Thread] Запрос списка практических работ
+2024-12-15 00:00:30,184 INFO s.s.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 00:00:30,205 INFO s.s.DatabaseHandler [JavaFX Application Thread] Запрос списка занятий
+2024-12-15 00:00:30,205 INFO s.s.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 00:00:30,220 INFO s.s.DatabaseHandler [JavaFX Application Thread] Запрос списка оценок
+2024-12-15 00:00:30,220 INFO s.s.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 00:00:30,237 INFO s.s.DatabaseHandler [JavaFX Application Thread] Запрос списка занятий ученика
+2024-12-15 00:00:30,237 INFO s.s.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 00:00:31,521 INFO s.s.DatabaseHandler [JavaFX Application Thread] Запрос списка практических работ
+2024-12-15 00:00:31,522 INFO s.s.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 00:00:31,541 INFO s.s.DatabaseHandler [JavaFX Application Thread] Запрос списка занятий
+2024-12-15 00:00:31,542 INFO s.s.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 00:00:31,558 INFO s.s.DatabaseHandler [JavaFX Application Thread] Запрос списка оценок
+2024-12-15 00:00:31,558 INFO s.s.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 00:00:31,572 INFO s.s.DatabaseHandler [JavaFX Application Thread] Запрос списка занятий ученика
+2024-12-15 00:00:31,572 INFO s.s.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 00:00:32,535 INFO s.s.DatabaseHandler [JavaFX Application Thread] Запрос списка практических работ
+2024-12-15 00:00:32,535 INFO s.s.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 00:00:32,558 INFO s.s.DatabaseHandler [JavaFX Application Thread] Запрос списка занятий
+2024-12-15 00:00:32,558 INFO s.s.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 00:00:32,577 INFO s.s.DatabaseHandler [JavaFX Application Thread] Запрос списка оценок
+2024-12-15 00:00:32,577 INFO s.s.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 00:00:32,592 INFO s.s.DatabaseHandler [JavaFX Application Thread] Запрос списка занятий ученика
+2024-12-15 00:00:32,592 INFO s.s.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 00:00:33,683 INFO s.s.DatabaseHandler [JavaFX Application Thread] Запрос списка практических работ
+2024-12-15 00:00:33,683 INFO s.s.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 00:00:33,696 INFO s.s.DatabaseHandler [JavaFX Application Thread] Запрос списка занятий
+2024-12-15 00:00:33,696 INFO s.s.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 00:00:33,717 INFO s.s.DatabaseHandler [JavaFX Application Thread] Запрос списка оценок
+2024-12-15 00:00:33,717 INFO s.s.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 00:00:33,727 INFO s.s.DatabaseHandler [JavaFX Application Thread] Запрос списка занятий ученика
+2024-12-15 00:00:33,728 INFO s.s.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 00:00:34,620 INFO s.s.DatabaseHandler [JavaFX Application Thread] Запрос списка практических работ
+2024-12-15 00:00:34,621 INFO s.s.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 00:00:34,639 INFO s.s.DatabaseHandler [JavaFX Application Thread] Запрос списка занятий
+2024-12-15 00:00:34,640 INFO s.s.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 00:00:34,653 INFO s.s.DatabaseHandler [JavaFX Application Thread] Запрос списка оценок
+2024-12-15 00:00:34,653 INFO s.s.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 00:00:34,665 INFO s.s.DatabaseHandler [JavaFX Application Thread] Запрос списка занятий ученика
+2024-12-15 00:00:34,665 INFO s.s.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:26:14,073 INFO s.S.MainApplication [JavaFX Application Thread] Открытие стартового окна
+2024-12-15 01:26:15,856 INFO s.S.HomeController [JavaFX Application Thread] Открытие нового окна
+2024-12-15 01:26:15,881 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка групп
+2024-12-15 01:26:15,882 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:26:16,171 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка практических работ
+2024-12-15 01:26:16,171 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:26:16,189 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка занятий
+2024-12-15 01:26:16,189 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:26:17,927 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка студентов
+2024-12-15 01:26:17,927 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:26:28,506 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание новой практической работы
+2024-12-15 01:26:28,508 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:26:28,544 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка групп
+2024-12-15 01:26:28,544 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:26:28,563 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:26:28,601 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка практических работ
+2024-12-15 01:26:28,601 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:26:33,557 INFO s.S.DatabaseHandler [JavaFX Application Thread] Выставление оценки
+2024-12-15 01:26:33,568 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:26:36,506 INFO s.S.DatabaseHandler [JavaFX Application Thread] Выставление оценки
+2024-12-15 01:26:36,507 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:26:37,791 INFO s.S.GradesController [JavaFX Application Thread] Открытие нового окна
+2024-12-15 01:26:37,809 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка групп
+2024-12-15 01:26:37,809 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:26:39,375 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка студентов
+2024-12-15 01:26:39,376 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:26:39,399 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка практических работ
+2024-12-15 01:26:39,400 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:26:39,419 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка занятий
+2024-12-15 01:26:39,420 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:26:39,436 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка студентов
+2024-12-15 01:26:39,437 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:26:39,454 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка оценок
+2024-12-15 01:26:39,454 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:26:39,466 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка занятий ученика
+2024-12-15 01:26:39,466 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:26:39,478 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка оценок
+2024-12-15 01:26:39,478 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:26:39,491 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка занятий ученика
+2024-12-15 01:26:39,491 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:26:40,074 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка практических работ
+2024-12-15 01:26:40,074 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:26:40,089 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка занятий
+2024-12-15 01:26:40,089 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:26:40,117 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка оценок
+2024-12-15 01:26:40,117 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:26:40,129 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка занятий ученика
+2024-12-15 01:26:40,129 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:26:41,042 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка практических работ
+2024-12-15 01:26:41,043 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:26:41,069 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка занятий
+2024-12-15 01:26:41,069 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:26:41,087 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка оценок
+2024-12-15 01:26:41,087 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:26:41,100 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка занятий ученика
+2024-12-15 01:26:41,100 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:26:41,709 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка практических работ
+2024-12-15 01:26:41,709 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:26:41,724 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка занятий
+2024-12-15 01:26:41,725 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:26:41,736 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка оценок
+2024-12-15 01:26:41,736 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:26:41,748 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка занятий ученика
+2024-12-15 01:26:41,748 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:36:01,647 INFO s.S.MainApplication [JavaFX Application Thread] Открытие стартового окна
+2024-12-15 01:36:03,585 INFO s.S.HomeController [JavaFX Application Thread] Открытие нового окна
+2024-12-15 01:36:03,628 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка групп
+2024-12-15 01:36:03,629 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:36:05,387 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка студентов
+2024-12-15 01:36:05,388 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:36:05,424 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка практических работ
+2024-12-15 01:36:05,424 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:36:05,444 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка занятий
+2024-12-15 01:36:05,444 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:36:05,461 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка студентов
+2024-12-15 01:36:05,462 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:36:05,477 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка оценок
+2024-12-15 01:36:05,477 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:36:05,496 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка занятий ученика
+2024-12-15 01:36:05,496 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:36:05,511 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка оценок
+2024-12-15 01:36:05,511 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:36:05,523 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка занятий ученика
+2024-12-15 01:36:05,524 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:36:06,746 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка практических работ
+2024-12-15 01:36:06,746 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:36:06,770 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка занятий
+2024-12-15 01:36:06,770 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:36:06,787 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка оценок
+2024-12-15 01:36:06,787 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:36:06,803 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка занятий ученика
+2024-12-15 01:36:06,804 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:36:07,671 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка практических работ
+2024-12-15 01:36:07,672 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:36:07,699 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка занятий
+2024-12-15 01:36:07,699 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:36:07,718 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка оценок
+2024-12-15 01:36:07,718 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:36:07,736 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка занятий ученика
+2024-12-15 01:36:07,736 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:44:32,490 INFO s.S.StatisticsController [JavaFX Application Thread] Открытие нового окна
+2024-12-15 01:44:32,529 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка групп
+2024-12-15 01:44:32,529 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:44:32,650 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка практических работ
+2024-12-15 01:44:32,650 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:44:32,665 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка занятий
+2024-12-15 01:44:32,666 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:44:34,524 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка студентов
+2024-12-15 01:44:34,524 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:46:17,841 INFO s.S.GradesController [JavaFX Application Thread] Открытие нового окна
+2024-12-15 01:46:17,860 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка групп
+2024-12-15 01:46:17,861 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:46:19,625 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка студентов
+2024-12-15 01:46:19,625 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:46:19,655 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка практических работ
+2024-12-15 01:46:19,656 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:46:19,678 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка занятий
+2024-12-15 01:46:19,678 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:46:19,694 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка студентов
+2024-12-15 01:46:19,694 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:46:19,708 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка оценок
+2024-12-15 01:46:19,709 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:46:19,726 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка занятий ученика
+2024-12-15 01:46:19,726 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:46:19,737 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка оценок
+2024-12-15 01:46:19,737 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:46:19,760 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка занятий ученика
+2024-12-15 01:46:19,760 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:46:21,257 INFO s.S.StatisticsController [JavaFX Application Thread] Открытие нового окна
+2024-12-15 01:46:22,207 INFO s.S.ImportController [JavaFX Application Thread] Открытие нового окна
+2024-12-15 01:46:22,219 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка групп
+2024-12-15 01:46:22,219 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:46:22,239 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка практических работ
+2024-12-15 01:46:22,240 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:46:22,255 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка занятий
+2024-12-15 01:46:22,255 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:46:23,742 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка студентов
+2024-12-15 01:46:23,743 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:47:37,661 INFO s.S.MainApplication [JavaFX Application Thread] Открытие стартового окна
+2024-12-15 01:47:39,490 INFO s.S.HomeController [JavaFX Application Thread] Открытие нового окна
+2024-12-15 01:47:39,524 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка групп
+2024-12-15 01:47:39,525 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:47:39,729 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка практических работ
+2024-12-15 01:47:39,729 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:47:39,750 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка занятий
+2024-12-15 01:47:39,750 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:47:41,593 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка студентов
+2024-12-15 01:47:41,594 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:47:53,373 INFO s.S.GradesController [JavaFX Application Thread] Открытие нового окна
+2024-12-15 01:47:53,380 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка групп
+2024-12-15 01:47:53,380 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:47:55,058 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка студентов
+2024-12-15 01:47:55,059 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:47:55,077 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка практических работ
+2024-12-15 01:47:55,077 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:47:55,095 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка занятий
+2024-12-15 01:47:55,095 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:47:55,110 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка студентов
+2024-12-15 01:47:55,110 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:47:55,125 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка оценок
+2024-12-15 01:47:55,125 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:47:55,139 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка занятий ученика
+2024-12-15 01:47:55,139 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:47:55,150 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка оценок
+2024-12-15 01:47:55,150 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:47:55,164 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка занятий ученика
+2024-12-15 01:47:55,164 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:47:55,791 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка практических работ
+2024-12-15 01:47:55,791 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:47:55,818 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка занятий
+2024-12-15 01:47:55,818 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:47:55,829 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка оценок
+2024-12-15 01:47:55,829 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:47:55,840 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка занятий ученика
+2024-12-15 01:47:55,841 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:47:56,558 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка практических работ
+2024-12-15 01:47:56,559 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:47:56,590 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка занятий
+2024-12-15 01:47:56,590 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:47:56,607 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка оценок
+2024-12-15 01:47:56,607 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:47:56,619 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка занятий ученика
+2024-12-15 01:47:56,619 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:47:57,192 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка практических работ
+2024-12-15 01:47:57,192 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:47:57,214 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка занятий
+2024-12-15 01:47:57,214 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:47:57,232 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка оценок
+2024-12-15 01:47:57,232 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:47:57,246 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка занятий ученика
+2024-12-15 01:47:57,246 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:47:58,143 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка практических работ
+2024-12-15 01:47:58,143 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:47:58,163 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка занятий
+2024-12-15 01:47:58,164 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:47:58,182 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка оценок
+2024-12-15 01:47:58,182 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:47:58,197 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка занятий ученика
+2024-12-15 01:47:58,198 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:48:01,460 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка практических работ
+2024-12-15 01:48:01,461 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:48:01,484 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка занятий
+2024-12-15 01:48:01,484 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:48:01,515 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка оценок
+2024-12-15 01:48:01,515 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:48:01,526 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка занятий ученика
+2024-12-15 01:48:01,526 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:48:05,075 INFO s.S.StatisticsController [JavaFX Application Thread] Открытие нового окна
+2024-12-15 01:48:05,089 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка групп
+2024-12-15 01:48:05,089 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:48:05,110 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка практических работ
+2024-12-15 01:48:05,110 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:48:05,126 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка занятий
+2024-12-15 01:48:05,126 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:48:12,310 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка студентов
+2024-12-15 01:48:12,311 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:48:16,358 INFO s.S.DatabaseHandler [JavaFX Application Thread] Выставление оценки
+2024-12-15 01:48:16,367 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:48:19,175 INFO s.S.GradesController [JavaFX Application Thread] Открытие нового окна
+2024-12-15 01:48:19,186 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка групп
+2024-12-15 01:48:19,186 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:48:19,941 INFO s.S.StatisticsController [JavaFX Application Thread] Открытие нового окна
+2024-12-15 01:48:20,607 INFO s.S.ImportController [JavaFX Application Thread] Открытие нового окна
+2024-12-15 01:48:20,616 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка групп
+2024-12-15 01:48:20,617 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:48:21,643 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка студентов
+2024-12-15 01:48:21,643 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:48:21,664 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка практических работ
+2024-12-15 01:48:21,664 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:48:21,686 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка занятий
+2024-12-15 01:48:21,686 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:48:21,700 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка студентов
+2024-12-15 01:48:21,701 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:48:21,714 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка оценок
+2024-12-15 01:48:21,714 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:48:21,724 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка занятий ученика
+2024-12-15 01:48:21,724 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:48:21,733 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка оценок
+2024-12-15 01:48:21,734 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:48:21,745 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка занятий ученика
+2024-12-15 01:48:21,745 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:48:22,544 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка практических работ
+2024-12-15 01:48:22,544 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:48:22,568 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка занятий
+2024-12-15 01:48:22,568 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:48:22,587 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка оценок
+2024-12-15 01:48:22,587 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:48:22,604 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка занятий ученика
+2024-12-15 01:48:22,604 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:48:23,376 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка практических работ
+2024-12-15 01:48:23,377 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:48:23,399 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка занятий
+2024-12-15 01:48:23,399 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:48:23,418 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка оценок
+2024-12-15 01:48:23,418 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:48:23,433 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка занятий ученика
+2024-12-15 01:48:23,433 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:48:24,210 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка практических работ
+2024-12-15 01:48:24,210 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:48:24,230 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка занятий
+2024-12-15 01:48:24,230 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:48:24,247 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка оценок
+2024-12-15 01:48:24,247 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:48:24,260 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка занятий ученика
+2024-12-15 01:48:24,260 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:48:26,977 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка практических работ
+2024-12-15 01:48:26,978 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:48:27,001 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка занятий
+2024-12-15 01:48:27,001 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:48:27,015 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка оценок
+2024-12-15 01:48:27,016 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:48:27,029 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка занятий ученика
+2024-12-15 01:48:27,029 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:48:27,993 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка практических работ
+2024-12-15 01:48:27,994 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:48:28,018 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка занятий
+2024-12-15 01:48:28,018 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:48:28,037 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка оценок
+2024-12-15 01:48:28,037 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:48:28,056 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка занятий ученика
+2024-12-15 01:48:28,056 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:48:29,810 INFO s.S.StatisticsController [JavaFX Application Thread] Открытие нового окна
+2024-12-15 01:48:29,818 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка групп
+2024-12-15 01:48:29,818 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:48:29,895 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка практических работ
+2024-12-15 01:48:29,895 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:48:29,915 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка занятий
+2024-12-15 01:48:29,915 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:48:31,441 INFO s.S.GradesController [JavaFX Application Thread] Открытие нового окна
+2024-12-15 01:48:32,141 INFO s.S.ImportController [JavaFX Application Thread] Открытие нового окна
+2024-12-15 01:48:32,148 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка групп
+2024-12-15 01:48:32,148 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:48:32,165 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка практических работ
+2024-12-15 01:48:32,165 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:48:32,181 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка занятий
+2024-12-15 01:48:32,181 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:48:33,143 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка студентов
+2024-12-15 01:48:33,144 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:48:52,342 INFO s.S.DatabaseHandler [JavaFX Application Thread] Выставление оценки
+2024-12-15 01:48:52,343 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:48:53,558 INFO s.S.GradesController [JavaFX Application Thread] Открытие нового окна
+2024-12-15 01:48:53,571 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка групп
+2024-12-15 01:48:53,571 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:48:55,077 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка студентов
+2024-12-15 01:48:55,078 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:48:55,105 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка практических работ
+2024-12-15 01:48:55,105 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:48:55,121 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка занятий
+2024-12-15 01:48:55,121 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:48:55,133 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка студентов
+2024-12-15 01:48:55,133 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:48:55,148 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка оценок
+2024-12-15 01:48:55,148 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:48:55,162 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка занятий ученика
+2024-12-15 01:48:55,162 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:48:55,175 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка оценок
+2024-12-15 01:48:55,175 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:48:55,186 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка занятий ученика
+2024-12-15 01:48:55,186 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:48:55,760 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка практических работ
+2024-12-15 01:48:55,761 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:48:55,783 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка занятий
+2024-12-15 01:48:55,783 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:48:55,797 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка оценок
+2024-12-15 01:48:55,797 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:48:55,813 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка занятий ученика
+2024-12-15 01:48:55,813 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:48:56,891 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка практических работ
+2024-12-15 01:48:56,891 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:48:56,930 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка занятий
+2024-12-15 01:48:56,930 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:48:56,941 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка оценок
+2024-12-15 01:48:56,941 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:48:56,955 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка занятий ученика
+2024-12-15 01:48:56,955 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:48:57,627 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка практических работ
+2024-12-15 01:48:57,627 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:48:57,646 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка занятий
+2024-12-15 01:48:57,646 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:48:57,660 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка оценок
+2024-12-15 01:48:57,660 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:48:57,674 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка занятий ученика
+2024-12-15 01:48:57,674 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:48:58,610 INFO s.S.StatisticsController [JavaFX Application Thread] Открытие нового окна
+2024-12-15 01:48:58,614 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка групп
+2024-12-15 01:48:58,614 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:48:58,624 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка практических работ
+2024-12-15 01:48:58,624 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:48:58,634 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка занятий
+2024-12-15 01:48:58,634 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:48:59,925 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка студентов
+2024-12-15 01:48:59,926 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:49:09,575 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание новой практической работы
+2024-12-15 01:49:09,577 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:49:09,603 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка групп
+2024-12-15 01:49:09,603 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:49:09,621 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:49:09,669 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка практических работ
+2024-12-15 01:49:09,669 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:49:20,024 INFO s.S.GradesController [JavaFX Application Thread] Открытие нового окна
+2024-12-15 01:49:20,030 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка групп
+2024-12-15 01:49:20,030 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:49:21,331 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка студентов
+2024-12-15 01:49:21,332 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:49:21,349 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка практических работ
+2024-12-15 01:49:21,349 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:49:21,377 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка занятий
+2024-12-15 01:49:21,377 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:49:21,400 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка студентов
+2024-12-15 01:49:21,400 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:49:21,411 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка оценок
+2024-12-15 01:49:21,411 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:49:21,424 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка занятий ученика
+2024-12-15 01:49:21,424 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:49:21,436 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка оценок
+2024-12-15 01:49:21,436 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:49:21,449 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка занятий ученика
+2024-12-15 01:49:21,449 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:49:21,829 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка практических работ
+2024-12-15 01:49:21,830 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:49:21,849 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка занятий
+2024-12-15 01:49:21,850 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:49:21,859 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка оценок
+2024-12-15 01:49:21,859 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:49:21,869 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка занятий ученика
+2024-12-15 01:49:21,870 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:49:24,059 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка практических работ
+2024-12-15 01:49:24,060 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:49:24,078 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка занятий
+2024-12-15 01:49:24,078 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:49:24,096 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка оценок
+2024-12-15 01:49:24,096 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:49:24,114 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка занятий ученика
+2024-12-15 01:49:24,115 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:49:24,543 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка практических работ
+2024-12-15 01:49:24,544 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:49:24,564 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка занятий
+2024-12-15 01:49:24,564 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:49:24,579 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка оценок
+2024-12-15 01:49:24,579 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:49:24,592 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка занятий ученика
+2024-12-15 01:49:24,592 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:49:25,175 INFO s.S.StatisticsController [JavaFX Application Thread] Открытие нового окна
+2024-12-15 01:49:25,180 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка групп
+2024-12-15 01:49:25,180 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:49:25,197 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка практических работ
+2024-12-15 01:49:25,197 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:49:25,212 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка занятий
+2024-12-15 01:49:25,213 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:49:30,608 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание нового занятия
+2024-12-15 01:49:30,609 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:49:30,629 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка групп
+2024-12-15 01:49:30,629 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:49:30,642 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:49:30,666 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка занятий
+2024-12-15 01:49:30,666 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:49:41,878 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка студентов
+2024-12-15 01:49:41,880 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:49:44,008 INFO s.S.DatabaseHandler [JavaFX Application Thread] Выставление оценки
+2024-12-15 01:49:44,009 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:49:45,224 INFO s.S.GradesController [JavaFX Application Thread] Открытие нового окна
+2024-12-15 01:49:45,231 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка групп
+2024-12-15 01:49:45,231 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:49:46,660 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка студентов
+2024-12-15 01:49:46,661 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:49:46,680 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка практических работ
+2024-12-15 01:49:46,680 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:49:46,699 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка занятий
+2024-12-15 01:49:46,699 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:49:46,716 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка студентов
+2024-12-15 01:49:46,716 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:49:46,733 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка оценок
+2024-12-15 01:49:46,733 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:49:46,749 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка занятий ученика
+2024-12-15 01:49:46,750 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:49:46,766 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка оценок
+2024-12-15 01:49:46,766 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:49:46,794 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка занятий ученика
+2024-12-15 01:49:46,794 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:49:47,209 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка практических работ
+2024-12-15 01:49:47,210 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:49:47,227 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка занятий
+2024-12-15 01:49:47,227 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:49:47,243 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка оценок
+2024-12-15 01:49:47,243 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:49:47,258 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка занятий ученика
+2024-12-15 01:49:47,259 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:49:47,861 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка практических работ
+2024-12-15 01:49:47,861 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:49:47,893 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка занятий
+2024-12-15 01:49:47,894 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:49:47,907 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка оценок
+2024-12-15 01:49:47,907 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:49:47,921 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка занятий ученика
+2024-12-15 01:49:47,921 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:49:48,410 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка практических работ
+2024-12-15 01:49:48,410 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:49:48,429 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка занятий
+2024-12-15 01:49:48,429 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:49:48,443 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка оценок
+2024-12-15 01:49:48,443 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:49:48,456 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка занятий ученика
+2024-12-15 01:49:48,456 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:49:50,793 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка практических работ
+2024-12-15 01:49:50,794 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:49:50,812 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка занятий
+2024-12-15 01:49:50,812 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:49:50,825 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка оценок
+2024-12-15 01:49:50,826 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:49:50,837 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка занятий ученика
+2024-12-15 01:49:50,837 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:49:53,494 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка практических работ
+2024-12-15 01:49:53,495 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:49:53,513 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка занятий
+2024-12-15 01:49:53,513 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:49:53,528 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка оценок
+2024-12-15 01:49:53,528 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:49:53,542 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка занятий ученика
+2024-12-15 01:49:53,542 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:49:55,544 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка практических работ
+2024-12-15 01:49:55,545 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:49:55,564 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка занятий
+2024-12-15 01:49:55,564 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:49:55,579 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка оценок
+2024-12-15 01:49:55,579 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:49:55,591 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка занятий ученика
+2024-12-15 01:49:55,591 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:49:58,144 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка практических работ
+2024-12-15 01:49:58,144 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:49:58,161 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка занятий
+2024-12-15 01:49:58,161 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:49:58,180 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка оценок
+2024-12-15 01:49:58,180 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:49:58,195 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка занятий ученика
+2024-12-15 01:49:58,195 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:49:58,777 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка практических работ
+2024-12-15 01:49:58,778 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:49:58,800 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка занятий
+2024-12-15 01:49:58,800 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:49:58,819 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка оценок
+2024-12-15 01:49:58,819 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:49:58,836 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка занятий ученика
+2024-12-15 01:49:58,836 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:49:59,343 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка практических работ
+2024-12-15 01:49:59,343 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:49:59,363 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка занятий
+2024-12-15 01:49:59,363 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:49:59,379 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка оценок
+2024-12-15 01:49:59,379 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:49:59,393 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка занятий ученика
+2024-12-15 01:49:59,393 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:50:00,293 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка практических работ
+2024-12-15 01:50:00,294 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:50:00,313 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка занятий
+2024-12-15 01:50:00,313 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:50:00,331 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка оценок
+2024-12-15 01:50:00,331 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:50:00,343 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка занятий ученика
+2024-12-15 01:50:00,344 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:50:01,408 INFO s.S.StatisticsController [JavaFX Application Thread] Открытие нового окна
+2024-12-15 01:50:01,415 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка групп
+2024-12-15 01:50:01,415 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:50:01,429 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка практических работ
+2024-12-15 01:50:01,430 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:50:01,441 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка занятий
+2024-12-15 01:50:01,441 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:50:02,660 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка студентов
+2024-12-15 01:50:02,660 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:50:07,609 INFO s.S.DatabaseHandler [JavaFX Application Thread] Отметить на занятии
+2024-12-15 01:50:07,611 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:50:09,142 INFO s.S.GradesController [JavaFX Application Thread] Открытие нового окна
+2024-12-15 01:50:09,151 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка групп
+2024-12-15 01:50:09,151 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:50:10,593 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка студентов
+2024-12-15 01:50:10,593 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:50:10,609 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка практических работ
+2024-12-15 01:50:10,609 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:50:10,625 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка занятий
+2024-12-15 01:50:10,625 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:50:10,638 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка студентов
+2024-12-15 01:50:10,638 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:50:10,650 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка оценок
+2024-12-15 01:50:10,650 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:50:10,665 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка занятий ученика
+2024-12-15 01:50:10,665 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:50:10,680 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка оценок
+2024-12-15 01:50:10,680 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:50:10,695 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка занятий ученика
+2024-12-15 01:50:10,695 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:50:11,144 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка практических работ
+2024-12-15 01:50:11,144 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:50:11,164 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка занятий
+2024-12-15 01:50:11,164 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:50:11,183 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка оценок
+2024-12-15 01:50:11,183 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:50:11,196 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка занятий ученика
+2024-12-15 01:50:11,196 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:50:13,177 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка практических работ
+2024-12-15 01:50:13,178 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:50:13,197 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка занятий
+2024-12-15 01:50:13,197 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:50:13,213 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка оценок
+2024-12-15 01:50:13,213 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:50:13,225 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка занятий ученика
+2024-12-15 01:50:13,225 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:50:14,227 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка практических работ
+2024-12-15 01:50:14,227 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:50:14,243 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка занятий
+2024-12-15 01:50:14,243 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:50:14,262 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка оценок
+2024-12-15 01:50:14,262 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 01:50:14,275 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка занятий ученика
+2024-12-15 01:50:14,275 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 02:58:01,538 INFO s.S.MainApplication [JavaFX Application Thread] Открытие стартового окна
+2024-12-15 02:58:05,060 INFO s.S.HomeController [JavaFX Application Thread] Открытие нового окна
+2024-12-15 02:58:05,097 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка групп
+2024-12-15 02:58:05,097 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 02:58:05,424 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка практических работ
+2024-12-15 02:58:05,424 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
+2024-12-15 02:58:05,446 INFO s.S.DatabaseHandler [JavaFX Application Thread] Запрос списка занятий
+2024-12-15 02:58:05,446 INFO s.S.DatabaseHandler [JavaFX Application Thread] Создание подключения к базе данных
