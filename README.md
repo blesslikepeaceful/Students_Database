@@ -13,36 +13,35 @@
  Название базы данных: **STUDENTS_DATABASE**
         ### Шаг 1. Создание схемы:
 
-   ```
+```
 CREATE SCHEMA STUDENTS_DATABASE;
+```
+
+База данных должна содержать таблицы:
+   
+**Группы**
    ```
-
-   База данных должна содержать таблицы:
+   CREATE TABLE `spbgut`.`groups` (
+      `id` INT NOT NULL AUTO_INCREMENT,
+      `group` VARCHAR(45) NOT NULL,
+      PRIMARY KEY (`id`));
+   ```
    
-   **Группы**
-
-      ```
-      CREATE TABLE `spbgut`.`groups` (
-         `id` INT NOT NULL AUTO_INCREMENT,
-         `group` VARCHAR(45) NOT NULL,
-         PRIMARY KEY (`id`));
-      ```
+**Практические занятия**
+   ```
+   CREATE TABLE `STUDENTS_DATABASE`.`practical_works` (
+      `id` INT NOT NULL AUTO_INCREMENT,
+      `practical_work` VARCHAR(45) NOT NULL,
+      PRIMARY KEY (`id`));
+   ```
    
-   **Практические занятия**
-      ```
-      CREATE TABLE `STUDENTS_DATABASE`.`practical_works` (
-         `id` INT NOT NULL AUTO_INCREMENT,
-         `practical_work` VARCHAR(45) NOT NULL,
-         PRIMARY KEY (`id`));
-      ```
-   
-   **Занятия**
-      ```
-      CREATE TABLE `STUDENTS_DATABASE`.`classes` (
-         `id` INT NOT NULL AUTO_INCREMENT,
-         `class` VARCHAR(45) NOT NULL,
-         PRIMARY KEY (`id`));
-      ```
+**Занятия**
+   ```
+   CREATE TABLE `STUDENTS_DATABASE`.`classes` (
+      `id` INT NOT NULL AUTO_INCREMENT,
+      `class` VARCHAR(45) NOT NULL,
+      PRIMARY KEY (`id`));
+   ```   
 
 ### Шаг 2. Подключение БД:
 
