@@ -3,7 +3,8 @@
 ## Запуск программы
 
 | Шаг | Действие                                                                                       |
-|-----|------------------------------------------------------------------------------------------------|| 1   | Клонировать репозиторий в IntelliJ IDEA                                                        |
+|-----|------------------------------------------------------------------------------------------------|
+| 1   | Клонировать репозиторий в IntelliJ IDEA                                                        |
 | 2   | Установить драйвер MySQL ([скачать здесь](https://dev.mysql.com/downloads/connector/j/5.1.html)) |
 | 3   | Создать базу данных по инструкции ниже                                                         |
 
@@ -18,29 +19,31 @@ CREATE SCHEMA STUDENTS_DATABASE;
 
    База данных должна содержать таблицы:
    
-   Группы
-    ```
+   **Группы**
+
+      ```
       CREATE TABLE `spbgut`.`groups` (
          `id` INT NOT NULL AUTO_INCREMENT,
          `group` VARCHAR(45) NOT NULL,
          PRIMARY KEY (`id`));
-    ```
+      ```
    
-   Практические занятия
-    ```
+   **Практические занятия**
+      ```
       CREATE TABLE `STUDENTS_DATABASE`.`practical_works` (
          `id` INT NOT NULL AUTO_INCREMENT,
          `practical_work` VARCHAR(45) NOT NULL,
          PRIMARY KEY (`id`));
-    ```
+      ```
    
-   Занятия
-    ```
+   **Занятия**
+      ```
       CREATE TABLE `STUDENTS_DATABASE`.`classes` (
          `id` INT NOT NULL AUTO_INCREMENT,
          `class` VARCHAR(45) NOT NULL,
          PRIMARY KEY (`id`));
-    ```
+      ```
+
 ### Шаг 2. Подключение БД:
 
 Этот репозиторий содержит XML-файл (`src/main/resources/DataBaseConfigs.xml`), предназначенный для хранения параметров
@@ -49,9 +52,10 @@ CREATE SCHEMA STUDENTS_DATABASE;
 ## Инструкции:
 
 **Заполните параметры подключения:**
-Замените значения-заполнители на реальные данные подключения к вашей базе данных.
+Замените значения на свои.
 
-   ```xml
+   ```
+   xml
    <?xml version="1.0" encoding="UTF-8"?>
    <databaseConnection>
        <host>Ваш_Хост_Базы_Данных</host>
