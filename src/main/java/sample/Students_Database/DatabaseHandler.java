@@ -7,21 +7,15 @@ import java.sql.*;
 import java.util.ArrayList;
 import java.util.Arrays;
 
-/**
- * Работа с базой данных
- */
+// Работа с базой данных
+
 public class DatabaseHandler extends Configs {
     Connection dbConnection;
 
     private static final Logger logger = LogManager.getLogger();
 
-    /**
-     * Подключение к базе данных
-     *
-     * @return
-     * @throws ClassNotFoundException
-     * @throws SQLException
-     */
+    // Подключение к базе данных
+
     public Connection getDbConnection() throws ClassNotFoundException, SQLException {
         logger.info("Создание подключения к базе данных");
         String connectionString = "jdbc:mysql://" + dbHost + ":"
@@ -35,13 +29,8 @@ public class DatabaseHandler extends Configs {
         return dbConnection;
     }
 
-    /**
-     * Создание новой группы
-     * Создает все необходимые таблицы для хранения данных группы
-     *
-     * @param Group    группа
-     * @param Students студенты
-     */
+    //  Блок с SQL командами для обращения к БД
+
     public void NewGroup(String Group, String Students) {
         logger.info("Создание новой группы");
         //Добавление группы в таблицу с группами
@@ -98,11 +87,8 @@ public class DatabaseHandler extends Configs {
         }
     }
 
-    /**
-     * Получение списка всех ГРУПП
-     *
-     * @return массив со всеми группами
-     */
+    // Получение списка всех групп
+
     public String[] getGroups() {
         logger.info("Запрос списка групп");
         ResultSet Set = null;
@@ -123,12 +109,8 @@ public class DatabaseHandler extends Configs {
         return groups.toArray(new String[0]);
     }
 
-    /**
-     * Получение списка группы по ее названию
-     *
-     * @param Group группа
-     * @return таблица группы
-     */
+    // Получение списка группы по ее названию
+
     public ResultSet GetStudents(String Group) {
         logger.info("Запрос списка студентов");
         ResultSet Set = null;
@@ -145,11 +127,8 @@ public class DatabaseHandler extends Configs {
         return Set;
     }
 
-    /**
-     * Добавление новой практической работы
-     *
-     * @param Work практическая работа
-     */
+    // Добавление новой практической работы
+
     public void NewPracticalWork(String Work) {
         logger.info("Создание новой практической работы");
         //Добавление новой практической работы в таблицу с практическими работами
@@ -170,11 +149,8 @@ public class DatabaseHandler extends Configs {
         }
     }
 
-    /**
-     * Получение списка практических работ
-     *
-     * @return массив всех практических работ
-     */
+    // Получение списка практических работ
+
     public String[] getPracticalWork() {
         logger.info("Запрос списка практических работ");
         ResultSet Set = null;
@@ -195,14 +171,8 @@ public class DatabaseHandler extends Configs {
         return groups.toArray(new String[0]);
     }
 
-    /**
-     * Выставление оценки за практическую работу
-     *
-     * @param Group          группа
-     * @param Surname        фамилия
-     * @param Practical_work практическая работа
-     * @param Grade          оценка
-     */
+    // Выставление оценки за практическую работу
+
     public void NewPracticalWorkGrade(String Group, String Surname, String Practical_work, String Grade) {
         logger.info("Выставление оценки");
         String insert = "UPDATE `STUDENTS_DATABASE`.`" + Group + "` SET `" + Practical_work + "` = '" + Grade + "' WHERE (`surname` = '" + Surname + "');";
@@ -216,11 +186,7 @@ public class DatabaseHandler extends Configs {
         }
     }
 
-    /**
-     * Добавление нового занятия
-     *
-     * @param Class занятие
-     */
+    // Добавление нового занятия
 
     public void NewClass(String Class) {
         logger.info("Создание нового занятия");
@@ -242,11 +208,7 @@ public class DatabaseHandler extends Configs {
         }
     }
 
-    /**
-     * Получение списка занятий
-     *
-     * @return массив всех занятий
-     */
+    // Получение списка занятий
 
     public String[] getClasses() {
         logger.info("Запрос списка занятий");
@@ -268,13 +230,8 @@ public class DatabaseHandler extends Configs {
         return classes.toArray(new String[0]);
     }
 
-    /**
-     * Отметить на занятии
-     *
-     * @param Group   группа
-     * @param Class   занятие
-     * @param Surname фамилия
-     */
+    // Отметить на занятии
+
     public void SetClass(String Group, String Class, String Surname) {
         logger.info("Отметить на занятии");
         String insert = "UPDATE `STUDENTS_DATABASE`.`" + Group + "Classes" + "` SET `" + Class + "` = '1' WHERE (`surname` = '" + Surname + "');";
@@ -288,14 +245,7 @@ public class DatabaseHandler extends Configs {
         }
     }
 
-    /**
-     * Получение всех оценок одного ученика
-     *
-     * @param group   гуппа
-     * @param surname фамилия
-     * @param len     кол-во работ
-     * @return массив оценок
-     */
+    // Получение всех оценок одного ученика
 
     public int[] getStudentGrades(String group, String surname, int len) {
         logger.info("Запрос списка оценок");
@@ -320,14 +270,8 @@ public class DatabaseHandler extends Configs {
         return grades;
     }
 
-    /**
-     * Получение занятий на которых был отмечен ученик
-     *
-     * @param group   группа
-     * @param surname фамилия
-     * @param len     кол-во занятий
-     * @return массив занятий на которых был отмечен ученик
-     */
+    // Получение занятий на которых был отмечен ученик
+
     public int[] getStudentClasses(String group, String surname, int len) {
         logger.info("Запрос списка занятий ученика");
         ResultSet Set = null;

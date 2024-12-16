@@ -21,7 +21,7 @@ CREATE SCHEMA STUDENTS_DATABASE;
    
 **Группы**
    ```
-   CREATE TABLE `spbgut`.`groups` (
+   CREATE TABLE `STUDENTS_DATABASE`.`groups` (
       `id` INT NOT NULL AUTO_INCREMENT,
       `group` VARCHAR(45) NOT NULL,
       PRIMARY KEY (`id`));
@@ -59,7 +59,28 @@ CREATE SCHEMA STUDENTS_DATABASE;
    <databaseConnection>
        <host>Ваш_Хост_Базы_Данных</host>
        <port>Ваш_Порт_Базы_Данных</port>
-       <databaseName>spbgut</databaseName>
+       <databaseName>STUDENTS_DATABASE</databaseName>
        <username>Ваше_Имя_Пользователя</username>
        <password>Ваш_Пароль</password>
    </databaseConnection>
+```
+
+#### После всех проделанных действий для запуска программы используйте Maven!
+
+```
+mvn package javafx:run
+```
+
+```
+❤¸.•*""*•. ¸❤ ❤¸.•*""*•. ¸❤ ❤¸.•*""*•. ¸❤¸.•❤❤
+────(♥)(♥)(♥)────(♥)(♥)(♥) ❤¸.•*""*•. ¸❤ ❤❤❤
+──(♥)██████(♥)(♥)██████(♥) ❤¸.•*""*•. ¸❤ ❤❤❤
+─(♥)████████(♥)████████(♥) ❤¸.•*""*•. ¸❤ ❤❤❤
+─(♥)██████████████████(♥) ❤¸.•*""*•. ¸❤ ❤¸❤❤
+──(♥)██████JAVA███████(♥) ❤¸.•*""*•. ¸❤ ❤❤❤
+────(♥)████████████(♥) ❤¸.•*""*•. ¸❤ ❤❤❤
+──────(♥)████████(♥) ❤¸.•*""*•. ¸❤ ❤❤❤
+────────(♥)████(♥) ❤¸.•*""*•. ¸❤ ❤❤❤
+─────────(♥)██(♥) ❤¸.•*""*•. ¸❤ ❤❤❤
+───────────(♥)❤¸.•*""*•. ¸❤ ❤❤
+```

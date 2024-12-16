@@ -7,31 +7,21 @@ public class Students {
     private String name;
     private String surname;
 
-    /**
-     * Конструктор класса
-     *
-     * @param name    имя
-     * @param surname фамилия
-     */
+    // Конструктор класса Students
+
     public Students(String name, String surname) {
         this.name = name;
         this.surname = surname;
     }
 
-    /**
-     * Возвращает имя
-     *
-     * @return имя
-     */
+    // Возвращает имя
+
     public String getName() {
         return name;
     }
 
-    /**
-     * Возвращает фамилию
-     *
-     * @return фамилия
-     */
+    // Возвращает фамилию
+
     public String getSurname() {
         return surname;
     }

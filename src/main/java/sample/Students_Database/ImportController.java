@@ -13,9 +13,8 @@ import org.apache.logging.log4j.Logger;
 
 import java.io.IOException;
 
-/**
- * Конроллер окна Inport-view.fxml
- */
+// Отвечает за окно Import-view.fxml
+
 public class ImportController {
     private static final Logger logger = LogManager.getLogger();
 
@@ -39,10 +38,8 @@ public class ImportController {
     @FXML
     private TextArea studentsArea;
 
-    /**
-     * Инициализация окна
-     * Обрабатывает все события окна
-     */
+    // Обрабатывает все события окна
+
     @FXML
     void initialize() {
 
@@ -68,6 +65,7 @@ public class ImportController {
 
 
         //Сохранение в базу данных списка новой группы
+
         save_button.setOnAction(actionEvent -> {
             DatabaseHandler db = new DatabaseHandler();
             db.NewGroup(groupField.getText().trim(), studentsArea.getText());
@@ -76,12 +74,8 @@ public class ImportController {
         });
     }
 
-    /**
-     * Открытие нового окна
-     *
-     * @param Window новое окно
-     * @throws IOException
-     */
+    // Открытие нового окна
+
     public void NewWindow(String Window) throws IOException {
         logger.info("Открытие нового окна");
         root = FXMLLoader.load(getClass().getResource(Window));

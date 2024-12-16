@@ -10,9 +10,8 @@ import javax.xml.parsers.ParserConfigurationException;
 import java.io.File;
 import java.io.IOException;
 
-/**
- * Получение данных для подключения к базе данных из файла
- */
+// Получение данных для подключения к базе данных из файла
+
 public class Configs {
     static String dbHost;
     static String dbPort;
@@ -20,9 +19,8 @@ public class Configs {
     static String dbPass;
     static String dbName;
 
-    /**
-     * Получение данных из файла
-     */
+    // Получение данных о БД из файла
+
     public static void init() {
         File xmlFile = new File("src/main/resources/DataBaseConfigs.xml");
         DocumentBuilderFactory dbFactory = DocumentBuilderFactory.newInstance();
@@ -45,13 +43,8 @@ public class Configs {
 
     }
 
-    /**
-     * Возвращает пареметр по его названию
-     *
-     * @param element элементы из файла
-     * @param tagName название параметра
-     * @return параметр
-     */
+    // Возвращает параметр по его названию
+
     private static String getElementValue(Element element, String tagName) {
         return element.getElementsByTagName(tagName).item(0).getTextContent();
     }

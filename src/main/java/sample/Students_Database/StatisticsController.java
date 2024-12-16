@@ -20,9 +20,8 @@ import java.sql.SQLException;
 import java.text.DecimalFormat;
 import java.util.ArrayList;
 
-/**
- * Контроллер окна Statistics-view.fxmld
- */
+// Отвечает за окно Statistics-view.fxml
+
 public class StatisticsController {
     private static final Logger logger = LogManager.getLogger();
     private Stage stage;
@@ -135,11 +134,8 @@ public class StatisticsController {
         stage.show();
     }
 
-    /**
-     * Вывод списка студентов в таблицу
-     *
-     * @param actionEvent
-     */
+    // Вывод списка студентов в таблицу
+
     private void SetStudents(ActionEvent actionEvent) {
         DatabaseHandler db = new DatabaseHandler();
         ResultSet Set = db.GetStudents(GroupBox.getValue());
@@ -161,13 +157,7 @@ public class StatisticsController {
         group_statistics(GroupBox.getValue());
     }
 
-    /**
-     * Вывод статистики студента
-     *
-     * @param group   группа
-     * @param surname фамилия
-     * @param name    имя
-     */
+    // Вывод статистики студента
     public void student_statistics(String group, String surname, String name) {
         DecimalFormat Format = new DecimalFormat("#.##");
         DatabaseHandler db = new DatabaseHandler();
@@ -229,12 +219,8 @@ public class StatisticsController {
                 Format.format(out) + "%)");
     }
 
-    /**
-     * Получение массива фамилий группы
-     *
-     * @param group группа
-     * @return массив фамилий студентов группы group
-     */
+    // Получение массива фамилий группы
+
     public String[] GetSurnames(String group) {
         DatabaseHandler db = new DatabaseHandler();
         ResultSet Set = db.GetStudents(group);
@@ -249,11 +235,8 @@ public class StatisticsController {
         return surnames.toArray(new String[0]);
     }
 
-    /**
-     * Статистика группы
-     *
-     * @param group группа
-     */
+    // Статистика группы
+
     public void group_statistics(String group) {
         DatabaseHandler db = new DatabaseHandler();
         String[] Works = db.getPracticalWork();
@@ -280,7 +263,8 @@ public class StatisticsController {
             }
         }
 
-        //Вывод занчений
+        //Вывод значений
+
         DecimalFormat Format = new DecimalFormat("#.##");
         float out = (float) sum_classes / Classes.length / Surnames.length * 100;
         group_classes.setText("На занятиях присутствует в среднем " + Format.format(out) + "% группы");

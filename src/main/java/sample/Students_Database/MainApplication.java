@@ -14,18 +14,14 @@ import java.io.IOException;
 public class MainApplication extends Application {
     private static final Logger logger = LogManager.getLogger();
 
-    /**
-     * Стартовый метод
-     * Открывает стартовое окно Home-view.fxml
-     *
-     * @param stage
-     * @throws IOException
-     */
+    // Открывает стартовое окно Home-view.fxml
+
+
     @Override
     public void start(Stage stage) throws IOException {
-        //Получение параметров для подключения к база данных
+        //Получение параметров для подключения к базе данных
         Configs.init();
-        logger.info("Открытие стартового окна");
+        logger.info("Загрузка начального окна");
 
         FXMLLoader fxmlLoader = new FXMLLoader(MainApplication.class.getResource("Home-view.fxml"));
         Scene scene = new Scene(fxmlLoader.load(), 900, 600);
@@ -33,10 +29,6 @@ public class MainApplication extends Application {
         stage.setScene(scene);
         stage.show();
     }
-
-    /**
-     * @param args
-     */
     public static void main(String[] args) {
         launch();
     }

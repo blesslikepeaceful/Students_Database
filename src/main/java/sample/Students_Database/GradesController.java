@@ -17,9 +17,8 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.util.ArrayList;
 
-/**
- * Контроллер окна Grades-view.fxml
- */
+// Контроллер окна Grades-view.fxml
+
 public class GradesController {
 
     private static final Logger logger = LogManager.getLogger();
@@ -76,14 +75,13 @@ public class GradesController {
     private Button NewClass_Button;
 
 
-    /**
-     * Инициализация окна
-     * Обрабатывает все события окна
-     */
+    // Обрабатывает все события окна
+
     @FXML
     void initialize(){
 
-        //Октрытие окна импорта студентов
+        //Открытие окна импорта студентов
+
         import_button.setOnAction(actionEvent -> {
             try {
                 NewWindow("/sample/Students_Database/Import-view.fxml");
@@ -163,10 +161,8 @@ public class GradesController {
         ClassesBox.getItems().addAll(db.getClasses());
     }
 
-    /**
-     * Вывод списка студентов в таблицу
-     * @param actionEvent
-     */
+    // Вывод списка студентов в таблицу
+
     private void SetStudents(ActionEvent actionEvent) {
         DatabaseHandler db = new DatabaseHandler();
         ResultSet Set = db.GetStudents(GroupBox.getValue());
@@ -187,11 +183,8 @@ public class GradesController {
         table.setItems(FXCollections.observableList(list));
     }
 
-    /**
-     * Открытие нового окна
-     * @param Window окно
-     * @throws IOException
-     */
+    // Открытие нового окна
+
     public void NewWindow(String Window) throws IOException{
         logger.info("Открытие нового окна");
         root = FXMLLoader.load(getClass().getResource(Window));

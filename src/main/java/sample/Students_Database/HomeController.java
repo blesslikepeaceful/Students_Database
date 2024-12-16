@@ -11,9 +11,8 @@ import javafx.stage.Stage;
 
 import java.io.IOException;
 
-/**
- * Контроллер стартового окна Home-view.fxml
- */
+// Контроллер стартового окна Home-view.fxml
+
 public class HomeController {
     private static final Logger logger = LogManager.getLogger();
     private Stage stage;
@@ -29,10 +28,8 @@ public class HomeController {
     @FXML
     private Button statistics_button;
 
-    /**
-     * Инициализация окна
-     * Обрабатывает все события окна
-     */
+    // Обрабатывает все события окна
+
     @FXML
     void initialize() {
         //Открытие окна выставления оценок
@@ -53,7 +50,9 @@ public class HomeController {
                 throw new RuntimeException(e);
             }
         });
+
         //Открытие окна импорта студентов
+
         import_button.setOnAction(actionEvent -> {
             try {
                 NewWindow("/sample/Students_Database/Import-view.fxml");
@@ -64,12 +63,8 @@ public class HomeController {
         });
     }
 
-    /**
-     * Открытие нового окна
-     *
-     * @param Window окно
-     * @throws IOException
-     */
+    // Открытие нового окна
+
     public void NewWindow(String Window) throws IOException {
         logger.info("Открытие нового окна");
         root = FXMLLoader.load(getClass().getResource(Window));
